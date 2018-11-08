@@ -1,0 +1,23 @@
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+color:red;
+font-size:25px;
+}
+.best-movie{
+  color:purple;
+}
+p {
+    font-size:30px;
+}
+  .best-artist {
+      color:orange;
+      font-family: 'Oswald', sans-serif;
+  }
+  .best-game {
+      color:blue;
+      font-family: 'Source Sans Pro', sans-serif;
+  }
+    .best-anime{
+        font-family: 'Poor Story', cursive;
+        color: green;
+    }
